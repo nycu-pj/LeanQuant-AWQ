@@ -1,5 +1,7 @@
 <h1 align="center">LeanQuant</h1>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LeanModels/LeanQuant/refs/heads/master/assets/LeanLlama.jpg" alt="LeanQuant" width="512">
+</p>
 <p align="center">
     <strong>ICLR 2025</strong> | <em>Accurate and Scalable LLM Quantization with Loss-error-aware Grid</em>
 </p>
